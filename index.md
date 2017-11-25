@@ -2,7 +2,7 @@
 <label> Github username <input id="username"  type="text" value="ziraco" v/></label>
 <label> Github pass <input id="password"  type="password"/>
 <label> Title <input id="title"  type="text" value="prueba"/>
-<label> Content <input id="body" type="textarea" value="prueba" />
+<label> Content <input id ="body" type="textarea" value="prueba" />
 <label><button> Dale </button></label>
 
 <h1> Decimas </h1>
