@@ -8,3 +8,26 @@ section {
   width: auto;
   float: none;
 }
+
+.new_decima {
+  label {
+    display: block;
+  }
+    font-size: 20px;
+  input {
+    &[type="textarea"] {
+        width: 600px;
+        height: 120px;
+        border: 3px solid #cccccc;
+        padding: 5px;
+        font-family: Tahoma, sans-serif;
+        background-position: bottom right;
+        background-repeat: no-repeat;
+
+    }
+    height: 30px;
+    font-size: 20px;
+  }
+
+
+}

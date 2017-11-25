@@ -213,3 +213,8 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   header li, header ul li + li + li { width: 33%; } }
 @media print { body { padding: 0.4in; font-size: 12pt; color: #444; } }
 section { width: auto; float: none; }
+
+.new_decima { font-size: 20px; }
+.new_decima label { display: block; }
+.new_decima input { height: 30px; font-size: 20px; }
+.new_decima input[type="textarea"] { width: 600px; height: 120px; border: 3px solid #cccccc; padding: 5px; font-family: Tahoma, sans-serif; background-position: bottom right; background-repeat: no-repeat; }
