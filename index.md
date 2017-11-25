@@ -5,7 +5,7 @@
 <label> Content <input id ="body" type="textarea" value="prueba" />
 <label><button> Dale </button></label>
 
-<h1> Decimas </h1>
+<h1> Décimas </h1>
 {% for decima in site.decimas %}
       
   <b>{{ decima.title }}</b>
